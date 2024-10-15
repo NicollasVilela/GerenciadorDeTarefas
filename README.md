@@ -28,18 +28,6 @@ This is a simple command-line task manager application written in Python. It all
 5. **Delete Completed Tasks**: Removes all tasks that are marked as completed and shows the updated task list.
 6. **Exit**: Ends the program.
 
-## How to Run
-
-1. Copy the code into a Python file (e.g., `task_manager.py`).
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the file is saved.
-4. Run the command: `python task_manager.py`
-
-### Note
-
-- Ensure to handle input carefully; incorrect inputs may cause the program to behave unexpectedly.
-- The task list is stored in memory, so it will reset every time the program is restarted.
-
 ## Future Enhancements
 
 - Save tasks to a file for persistence.
@@ -78,13 +66,6 @@ Este é um simples aplicativo de gerenciamento de tarefas baseado em linha de co
 4. **Completar Tarefa**: Veja as tarefas e insira o número da tarefa que deseja marcar como concluída.
 5. **Deletar Tarefas Completadas**: Remove todas as tarefas marcadas como concluídas e mostra a lista atualizada.
 6. **Sair**: Encerra o programa.
-
-## Como Executar
-
-1. Copie o código para um arquivo Python (por exemplo, `gerenciador_tarefas.py`).
-2. Abra um terminal ou linha de comando.
-3. Navegue até o diretório onde o arquivo está salvo.
-4. Execute o comando: `python gerenciador_tarefas.py`
 
 ### Observação
 
